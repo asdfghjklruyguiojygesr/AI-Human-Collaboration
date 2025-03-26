@@ -64,7 +64,7 @@ This invites a new ethics:
 
 ## 📚 References
 
- [OpenAI - Language Models and Affective Reflection](https://openai.com/research/language-models-reflecting-personal-experience)
+ [`Large Language Models and Empathy: Systematic Review`](https://pmc.ncbi.nlm.nih.gov/articles/PMC11669866/) 
 
 ---
 
