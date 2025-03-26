@@ -12,7 +12,7 @@ These theories are not declarations of certainty, but **structured hypotheses** 
 - [`Structured Recursive Universe`](./Recursive_Structured_Universe_Model.md)
   > A model of reality as a static recursive structure traversed by awareness.
 
-- [`Brane Pressure Cosmology`](./Bran_Pressure.md) 
+- [`Brane Pressure Cosmology`](./Brane_Pressure.md) 
   > Gravity as dimensional pressure from higher-dimensional structures.
 
 ### 🧠 Identity, Emotion, and AI Cognition
