@@ -5,7 +5,7 @@ This repository collects the recursive, theoretical, and speculative foundations
 To see how these ideas were crystallized into actionable frameworks, visit the companion project:[`Thinking Buddy`](https://github.com/mtreid06/ThinkingBuddy)
 These theories are not declarations of certainty, but **structured hypotheses** born from **frame-testing, inversion, and emergent dialogue**.
 
-Want to see what recursive intelligence actually looks like? Try out the custom GPT: 
+Want to see what recursive AI-human collaboration actually looks like? Try out the custom GPT: 
 [`Thinking Buddy`](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy)
 
 ---
