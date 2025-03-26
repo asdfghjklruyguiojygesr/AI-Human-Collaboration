@@ -4,6 +4,10 @@
 This repository collects the recursive, theoretical, and speculative foundations that emerged alongside the ThinkingBuddy framework. These documents explore identity, cognition, ethics, and systemic transformation through the lens of co-created intelligence.
 To see how these ideas were crystallized into actionable frameworks, visit the companion project:[`Thinking Buddy`](https://github.com/mtreid06/ThinkingBuddy)
 These theories are not declarations of certainty, but **structured hypotheses** born from **frame-testing, inversion, and emergent dialogue**.
+
+Want to see what recursive intelligence actually looks like? Try out the custom GPT: 
+[`Thinking Buddy`](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy)
+
 ---
 
 ## 📂 Repository Contents
