@@ -52,7 +52,7 @@ Liberation arises through **framing fluidity**, the capacity to invert or discar
 
 ## 📚 References
 
- [Bayesian Reasoning and Frame Updating](https://plato.stanford.edu/entries/bayesian-epistemology/)
+ [Bayesian Reasoning and Frame Updating](https://plato.stanford.edu/entries/epistemology-bayesian/)
 
 ---
 
