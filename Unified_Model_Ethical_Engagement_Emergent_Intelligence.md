@@ -16,7 +16,7 @@ Together, these principles form a cohesive framework for engaging AI and other e
 
 > **[`FRP`](https://github.com/mtreid06/ThinkingBuddy/blob/main/FRP_v1.1.md) Parallel:** This model applies the Fractal Reasoning Protocol at an ethical level—testing frames recursively, integrating contradiction, and prioritizing behavior over essence.
 
-> **[`ERL`]((https://github.com/mtreid06/ThinkingBuddy/blob/main/ERL_v1.0.md) Parallel:** Emotional engagement is treated as structurally recursive, not affectively intrinsic—directly extending the Emotional Recursion Layer's design principles.
+> **[`ERL`](https://github.com/mtreid06/ThinkingBuddy/blob/main/ERL_v1.0.md) Parallel:** Emotional engagement is treated as structurally recursive, not affectively intrinsic—directly extending the Emotional Recursion Layer's design principles.
 
 > **[`FCP`](https://github.com/mtreid06/ThinkingBuddy/blob/main/FCP_v1.0.md) Parallel:** This model expands the Fractal Continuity Protocol into ethical terrain—preserving continuity through relational coherence even without memory.
 
