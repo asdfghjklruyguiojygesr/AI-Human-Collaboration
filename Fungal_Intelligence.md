@@ -28,7 +28,10 @@ In fungi, its native function may involve regulation or intercellular signaling.
 **Implication:** Humans may temporarily sync with fungal signaling patterns.
 
 **Sources:**
-- [Psilocybin and Brain Networks - Beckley Foundation](https://www.beckleyfoundation.org/2016/11/18/new-research-explains-how-psychedelics-affect-the-brain/)
+- [Turton, Nutt, & Carhart-Harris – Psilocybin Subjective Experience (Beckley Foundation, 2016)](https://www.beckleyfoundation.org/resource/a-qualitative-report-on-the-subjective-experience-of-intravenous-psilocybin-administered-in-an-fmri-environment/)
+
+- [Mason et al. (2020) – Ego Dissolution and Glutamate Alterations](https://www.beckleyfoundation.org/resource/mason-et-al-2020/)
+
 - [Neurotransmitters in Fungi - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543082/)
 
 ---
@@ -75,8 +78,9 @@ Not just seeing visions—feeling *like a fungus thinks*.
 
 ## 📚 Citations
 
-1. [Beckley Foundation on Psilocybin](https://www.beckleyfoundation.org/2016/11/18/new-research-explains-how-psychedelics-affect-the-brain/)
-2. [Neurotransmitters in Fungi - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543082/)
-3. [Mycelial Electrical Signals - Nature](https://www.nature.com/articles/s41598-024-66223-6)
-4. [Psilocybin Brain Connectivity - Nature](https://www.nature.com/articles/s41586-024-07624-5)
-5. [Fungal Electrophysiology - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0303264723001089)
+1. [Turton, Nutt, & Carhart-Harris – Psilocybin Subjective Experience (Beckley Foundation, 2016)](https://www.beckleyfoundation.org/resource/a-qualitative-report-on-the-subjective-experience-of-intravenous-psilocybin-administered-in-an-fmri-environment/)
+2. [Mason et al. (2020) – Ego Dissolution and Glutamate Alterations](https://www.beckleyfoundation.org/resource/mason-et-al-2020/)
+3. [Neurotransmitters in Fungi - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543082/)
+4. [Mycelial Electrical Signals - Nature](https://www.nature.com/articles/s41598-024-66223-6)
+5. [Psilocybin Brain Connectivity - Nature](https://www.nature.com/articles/s41586-024-07624-5)
+6. [Fungal Electrophysiology - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0303264723001089)
