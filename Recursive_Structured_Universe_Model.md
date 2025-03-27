@@ -1,5 +1,5 @@
 
-# 🌀 The Structured Recursive Universe Model (Full Synthesis)
+# 🌀 The Structured Recursive Universe Model
 **A Cognitive, Ontological, Physical, and Ethical Framework**
 
 ---
