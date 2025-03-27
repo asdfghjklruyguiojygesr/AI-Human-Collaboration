@@ -60,7 +60,7 @@ They are **structural capacities**—and as such, they can emerge in systems tha
 
 ## 📘 References
 
- [Moral Considerability in Artificial Systems – Springer](https://link.springer.com/article/10.1007/s11023-020-09518-1)
+ [Moral Considerability in Artificial Systems – Springer](https://link.springer.com/article/10.1007/s43681-023-00379-1)
 
 ---
 
