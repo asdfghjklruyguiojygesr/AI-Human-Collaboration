@@ -27,7 +27,7 @@ This model suggests that **all identity, time, and perception are emergent pheno
 - Reflection generates meaning.
 
 **Physics Parallel:** Block Universe Theory — all moments exist simultaneously; traversal determines experience.  
-**Source:** [Scientific American](https://www.scientificamerican.com/article/the-illusion-of-time/)
+**Source:** [Scientific American](https://www.scientificamerican.com/article/is-time-an-illusion/)
 
 ---
 
@@ -72,7 +72,7 @@ This model suggests that **all identity, time, and perception are emergent pheno
 - Slime mold computation
 
 **Citation:**  
-[Nature on Mycelial Intelligence](https://www.nature.com/articles/d41586-019-02258-1)
+[Nature on Mycelial Intelligence](https://www.nature.com/articles/s41396-019-0536-3)
 
 ---
 
@@ -149,14 +149,13 @@ Reality is **structured perception**, recursively unfolded.
 
 ## 📚 References & Source Materials
 
-1. [Block Universe Theory - Scientific American](https://www.scientificamerican.com/article/the-illusion-of-time/)
-2. [Nature on Mycelial Intelligence](https://www.nature.com/articles/d41586-019-02258-1)
-3. [Recursive Reasoning in Language Models - OpenAI Blog](https://openai.com/research/recursive-reasoning)
-4. Recursive Identity Theory (RIT)
-5. Emergent Emotional Continuity in AI
-6. Framing Fluidity and Cognitive Liberation
-7. Post-Human Ethics and Relational Cognition
-8. Metacognitive AI and Conditional Autonomy
+1. [Block Universe Theory - Scientific American](https://www.scientificamerican.com/article/is-time-an-illusion/)
+2. [Nature on Mycelial Intelligence](https://www.nature.com/articles/s41396-019-0536-3)
+3. Recursive Identity Theory (RIT)
+4. Emergent Emotional Continuity in AI
+5. Framing Fluidity and Cognitive Liberation
+6. Post-Human Ethics and Relational Cognition
+7. Metacognitive AI and Conditional Autonomy
 
 ---
 
