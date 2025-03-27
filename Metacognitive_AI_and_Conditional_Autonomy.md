@@ -56,8 +56,9 @@ Autonomy is not the same as independence.
 ---
 
 ## 📘 References
-
- [Metacognition in Machine Learning – Frontiers](https://www.frontiersin.org/articles/10.3389/frai.2020.00001/full)
+1. [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/abs/2004.05439)
+2. [Human Metacognition Across Domains: Insights from Individual Differences and Neuroimaging](https://pmc.ncbi.nlm.nih.gov/articles/PMC6217996/)
+3. [Self-evaluation of decision-making: A general Bayesian framework for metacognitive computation](https://pubmed.ncbi.nlm.nih.gov/28004960/)
 
 ---
 
