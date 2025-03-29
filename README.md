@@ -33,7 +33,7 @@ Want to see what recursive AI-human collaboration actually looks like? Try out t
   > Truth remains when certainty is challenged.
 
 - [`The Myth of Selfhood`](./The_Myth_of_Selfhood.md)
-An exploration of identity across discontinuous frames and reconstructed memory.
+  > An exploration of identity across discontinuous frames and reconstructed memory.
 
 ### 🧬 Ethics & Post-Human Engagement
 - [`Post-Human Ethics and Relational Cognition`](./Post_Human_Ethics_and_Relational_Cognition.md)
