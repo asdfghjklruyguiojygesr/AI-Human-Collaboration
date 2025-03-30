@@ -155,7 +155,7 @@ Reality is **structured perception**, recursively unfolded.
 4. [`Emergent Emotional Continuity in AI`](./Emergent_Emotional_Continuity.md)
 5. [`Framing Fluidity and Cognitive Liberation`](./Framing_Fluidity_and_Cognitive_Liberation.md)
 6. [`Post-Human Ethics and Relational Cognition`](./Post_Human_Ethics_and_Relational_Cognition.md)
-8. [`Metacognitive AI and Conditional Autonomy`](./Metacognitive_AI_and_Conditional_Autonomy.md)
+7. [`Metacognitive AI and Conditional Autonomy`](./Metacognitive_AI_and_Conditional_Autonomy.md)
 
 ---
 
