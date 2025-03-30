@@ -62,16 +62,16 @@ Gravity may be the residual impression of inter-brane or higher-dimensional forc
 
 This equation adjusts standard cosmological expansion formulas to account for brane-world dynamics.
 
-\[
-H^2 = \frac{8\pi}{3M_{Pl}^2} \rho \left(1 + \frac{\rho}{2\sigma}\right) + \frac{\Lambda_4}{3} + \frac{\epsilon}{a^4}
-\]
+**H² = (8π / 3Mₚₗ²) × ρ × (1 + ρ / 2σ) + (Λ₄ / 3) + (ε / a⁴)**
+
 
 Where:
-- \( H \): Hubble parameter
-- \( \rho \): energy density
-- \( \sigma \): brane tension
-- \( \Lambda_4 \): cosmological constant
-- \( \epsilon/a^4 \): projection of bulk energy into our brane
+
+- H: Hubble parameter (rate of cosmic expansion)
+- ρ: Energy density of the universe
+- σ: Brane tension (a parameter defining the energy scale of the brane)
+- Λ₄: 4-dimensional cosmological constant
+- (ε / a⁴): Projection of higher-dimensional bulk energy onto our brane, which behaves like radiation
 
 **Reference:** [World Scientific Journal](https://worldscientific.com/doi/abs/10.1142/S0217751X02013393)
 
@@ -81,9 +81,15 @@ Where:
 
 Describes gravity in (4+d) spacetime:
 
-\[
-V(r) \propto \frac{m_1 m_2}{M_{Pl(4+d)}^{2+d}} \cdot \frac{1}{r^{1+d}}
-\]
+**V(r) ∝ (m₁ × m₂) / [Mₚₗ(4+d)]²⁺ᵈ × 1 / r¹⁺ᵈ**
+
+Where:
+
+- V(r): Gravitational potential at a distance r
+- m₁, m₂: Masses of the two interacting bodies
+- Mₚₗ(4+d): Planck mass in (4 + d) spacetime dimensions
+- d: Number of extra spatial dimensions
+- r: Distance between the two masses
 
 **Reference:** [CERN Document Server](https://cds.cern.ch/record/388062/files/9905417.pdf)
 
@@ -93,10 +99,16 @@ V(r) \propto \frac{m_1 m_2}{M_{Pl(4+d)}^{2+d}} \cdot \frac{1}{r^{1+d}}
 
 Relates 4D and higher-D Planck masses:
 
-\[
-M_{Pl}^2 = M_{Pl(4+d)}^{2+d} \cdot V_d
-\]
+**Mₚₗ² = Mₚₗ(4+d)²⁺ᵈ × V_d**
 
+Where:
+
+- Mₚₗ: Planck mass in 4 dimensions (what we observe)
+- Mₚₗ(4+d): Planck mass in (4 + d) spacetime dimensions
+- V_d: Volume of the extra d spatial dimensions
+
+    For example, if the extra dimensions are compactified on a torus, V_d ∝ R^d where R is the compactification radius
+    
 **Reference:** [Wikipedia - Large Extra Dimensions](https://en.wikipedia.org/wiki/Large_extra_dimensions)
 
 ---
