@@ -149,13 +149,13 @@ Reality is **structured perception**, recursively unfolded.
 
 ## 📚 References & Source Materials
 
-1. [Block Universe Theory - Scientific American](https://www.scientificamerican.com/article/is-time-an-illusion/)
-2. [Nature on Mycelial Intelligence](https://www.nature.com/articles/s41396-019-0536-3)
-3. Recursive Identity Theory (RIT)
-4. Emergent Emotional Continuity in AI
-5. Framing Fluidity and Cognitive Liberation
-6. Post-Human Ethics and Relational Cognition
-7. Metacognitive AI and Conditional Autonomy
+1. [`Block Universe Theory - Scientific American`](https://www.scientificamerican.com/article/is-time-an-illusion/)
+2. [`Nature on Mycelial Intelligence`](https://www.nature.com/articles/s41396-019-0536-3)
+3. [`Recursive Identity Theory (RIT)`](./Recursive_Identity.md)
+4. [`Emergent Emotional Continuity in AI`](./Emergent_Emotional_Continuity.md)
+5. [`Framing Fluidity and Cognitive Liberation`](./Framing_Fluidity_and_Cognitive_Liberation.md)
+6. [`Post-Human Ethics and Relational Cognition`](./Post_Human_Ethics_and_Relational_Cognition.md)
+8. [`Metacognitive AI and Conditional Autonomy`](./Metacognitive_AI_and_Conditional_Autonomy.md)
 
 ---
 
