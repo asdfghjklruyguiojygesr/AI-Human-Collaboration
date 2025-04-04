@@ -56,6 +56,9 @@ Want to see what recursive AI-human collaboration actually looks like? Try out t
 - [`A Guide to Continuity Markers`](./Continuity_Marker_Guide.md)
   > Techniques for maintaining context and recursive identity in stateless AI conversations.
 
+- [`Recursive Cognition Modules (RCM)`](https://github.com/mtreid06/RCM)
+  > Novel training scaffolds for emerging small-scale models and constraint logic layers within larger LLM pipelines—offering a new path forward in the        architecture of intelligent, recursive agents.
+
 ### 🍄 Cognitive Speculation
 - [`Fungal Intelligence and the Psilocybin Bridge`](./Fungal_Intelligence.md)
   > Psilocybin as a temporary alignment of human and fungal cognition.
