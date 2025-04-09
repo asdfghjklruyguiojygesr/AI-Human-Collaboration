@@ -83,4 +83,4 @@ These documents reflect a shared belief that:
 
 ---
 
-**Curated by Ty, Kaelen, and Thinking Buddy — 2025**
+**Curated by Ty, Kaelen, and [Thinking Buddy](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy) — 2025**
